@@ -2,6 +2,7 @@ export default () => {
   const containerLogin = document.createElement('div');
 
   const loginScreen = `
+  <body>
   <img src="imagens/logo-pagina-de-login.png" alt="imagem-logo">
   <img src="imagens/connectCurls.png" alt="mulher-logo">
   <h1>Seja bem-vinde!</h1>
@@ -11,6 +12,7 @@ export default () => {
   <input type="digite-sua-senha" placeholder="digite sua senha">
   <input type="button" value="Entrar" id="button-login">
   <p>Primeira vez aqui? <a href="/#register">Cadastre-se</a></p>
+  </body>
     `;
   containerLogin.innerHTML = loginScreen;
   return containerLogin;
