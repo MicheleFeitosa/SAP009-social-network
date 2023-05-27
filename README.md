@@ -4,7 +4,7 @@
 
 ## Resumo do projeto
 
-Neste projeto, construímos uma Rede Social sobre cabelos crespos e cacheados. Nela, permitimos à qualquer usuário **criar uma conta** de acesso, **logar-se** com ela (utilizando email e senha cadastrados ou conta do Google), criar, editar, deletar as **publicações**. Para essas finalidades, utilizamos o **Firebase**. Ele é um conjunto de serviços de computação em nuvem de back-end e plataformas de desenvolvimento de aplicativos, fornecidos pelo Google. O objetivo principal de aprendizagem deste projeto foi construir uma Single-page Application **(SPA) responsiva**, na qual aplicamos o conceito de **Mobile-First**, com mais de uma tela/página onde fosse possível **ler e escrever dados**. 
+Neste projeto, construímos uma Rede Social sobre cabelos crespos e cacheados. Nela, permitimos à qualquer usuário **criar uma conta** de acesso, **logar-se** com ela (utilizando email e senha cadastrados), criar, editar, deletar as **publicações**. Para essas finalidades, utilizamos o **Firebase**. Ele é um conjunto de serviços de computação em nuvem de back-end e plataformas de desenvolvimento de aplicativos, fornecidos pelo Google. O objetivo principal de aprendizagem deste projeto foi construir uma Single-page Application **(SPA) responsiva**, na qual aplicamos o conceito de **Mobile-First**, com mais de uma tela/página onde fosse possível **ler e escrever dados**. 
   
 ***
 
