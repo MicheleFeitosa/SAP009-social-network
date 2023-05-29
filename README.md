@@ -1,6 +1,6 @@
 #### <div align="center"> 💻 📱 CRIANDO UMA REDE SOCIAL 📱 💻 </div>
 
-### Acesse o projeto [CLICANDO AQUI]() 
+### Acesse o projeto [Clicando AQUI](https://connectcurly.web.app/) 
 
 ## Resumo do projeto
 
